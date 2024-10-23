@@ -20,7 +20,7 @@ The Flea Market project aims to create an engaging and user-friendly platform fo
    
 4) Secure payment processing
    
-6)Responsive design for mobile and desktop
+6) Responsive design for mobile and desktop
 
 # Technologies Used
 **Frontend:** HTML, CSS, JavaScript
